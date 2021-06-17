@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan Hogan
+- 👋 Hi, I’m Ryan!
 
 - 📜 I am a student at Oregon State Universtiy studying finance and computer science!
 
